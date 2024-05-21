@@ -1,0 +1,29 @@
+html,
+body {
+  background-color: #21232a;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.3rem;
+  padding: 70px;
+  color: white;
+}
+button {
+  padding: 10px;
+  width: 80px;
+  height: 80px;
+  font-size: x-large;
+  color: white;
+  background-color: darkslateblue;
+  border: 2;
+  border-radius: 1em;
+}
+.numb {
+  font-weight: bold;
+  color: bisque;
+  padding: 1em;
+}
+.button {
+  padding-top: 8px;
+  width: 11em;
+  display: flex;
+  place-content: space-between;
+}
